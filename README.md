@@ -1,4 +1,20 @@
-## Hi there 👋
+### Hey there 👋
+
+I’m Kartik, a frontend developer from India.
+
+I enjoy building clean, responsive web interfaces using Angular and modern web technologies.  
+If an idea excites me, I try to build it and ship it.
+
+I believe in overcoming adversity through learning, consistency, and real projects.
+
+**Tech I work with:**  
+Angular · TypeScript · JavaScript · HTML · CSS
+
+**Portfolio:**  
+https://kartik-web-portfolio.netlify.app
+
+—
+Overcoming adversity through code and consistency 🚀
 
 <!--
 **kartikagashe1/kartikagashe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
