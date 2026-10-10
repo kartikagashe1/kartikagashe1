@@ -8,10 +8,7 @@ If an idea excites me, I try to build it and ship it.
 I believe in overcoming adversity through learning, consistency, and real projects.
 
 **Tech I work with:**  
-Angular · TypeScript · JavaScript · HTML · CSS
-
-**Portfolio:**  
-https://kartik-web-portfolio.netlify.app
+React.js · Java · JavaScript · HTML · CSS
 
 —
 Overcoming adversity through code and consistency 🚀
